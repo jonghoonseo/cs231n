@@ -5,7 +5,7 @@ Blog link: https://jonghoonseo.github.io/cs231n/
 This repository contains summaries of CS231n.
 
 | No. | Lecture | Video Link | Summary Note |
-|---------|------------|--------------|
+|-----|---------|------------|--------------|
 | #1 | Course Introduction | [Lecture 1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2&t=0s) | [Summary 1](summary_notes/lec1_introduction_to_convolutional_neural_networks_for_visual_recognition.md) |
 | #2 | Image Classification | [Lecture 2](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3&t=0s) | [Summary 2](https://colab.research.google.com/drive/1iA5nzGz1Kura4F2l7S1Mg-RwfXOAfMbR) |
 
